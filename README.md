@@ -1,1 +1,1 @@
-# sturdy-journey
+# Simple javaScript tabs
